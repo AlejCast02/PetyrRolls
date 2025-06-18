@@ -24,3 +24,16 @@ WaterTrails/TaptealWaterTrail/data/* filter=lfs diff=lfs merge=lfs -text
 GeolHydroEcol/FranklinPascoConservationSitesMap/* filter=lfs diff=lfs merge=lfs -text
 GeolHydroEcol/FranklinPascoConservationSitesMap/FPCS_index.html filter=lfs diff=lfs merge=lfs -text
 GeolHydroEcol/GeologyMap_qgis2web/layers/ColumbiaRiverBasin_3.js filter=lfs diff=lfs merge=lfs -text
+“GeolHydroEcol/FranklinPascoConservationSitesMap/css” filter=lfs diff=lfs merge=lfs -text
+“GeolHydroEcol/FranklinPascoConservationSitesMap/data” filter=lfs diff=lfs merge=lfs -text
+“GeolHydroEcol/FranklinPascoConservationSitesMap/images” filter=lfs diff=lfs merge=lfs -text
+“GeolHydroEcol/FranklinPascoConservationSitesMap/js” filter=lfs diff=lfs merge=lfs -text
+“GeolHydroEcol/FranklinPascoConservationSitesMap/legend” filter=lfs diff=lfs merge=lfs -text
+“GeolHydroEcol/FranklinPascoConservationSitesMap/markers” filter=lfs diff=lfs merge=lfs -text
+“GeolHydroEcol/FranklinPascoConservationSitesMap/webfonts” filter=lfs diff=lfs merge=lfs -text
+GeolHydroEcol/FranklinPascoConservationSitesMap/data filter=lfs diff=lfs merge=lfs -text
+GeolHydroEcol/FranklinPascoConservationSitesMap/images filter=lfs diff=lfs merge=lfs -text
+GeolHydroEcol/FranklinPascoConservationSitesMap/js filter=lfs diff=lfs merge=lfs -text
+GeolHydroEcol/FranklinPascoConservationSitesMap/legend filter=lfs diff=lfs merge=lfs -text
+GeolHydroEcol/FranklinPascoConservationSitesMap/markers filter=lfs diff=lfs merge=lfs -text
+GeolHydroEcol/FranklinPascoConservationSitesMap/webfonts filter=lfs diff=lfs merge=lfs -text
