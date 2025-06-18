@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ebde688341d21426e7e7db166665f5ef9b0df465ed65412abe919ad18ee39df
-size 493
+var json_PrimaryAreaofInterest_6 = {"type":"FeatureCollection","name":"PrimaryAreaofInterest_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-121.077204829452739,48.347799265635238],[-116.968949596096806,48.296478734661399],[-117.119385883868517,45.954666363909567],[-121.052583809430288,46.003840081845574],[-121.077204829452739,48.347799265635238]]]]}}]}
