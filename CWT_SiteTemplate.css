@@ -436,11 +436,12 @@ hr {
 	margin: auto;
 	display: block;
 	position: relative;
-	width: 100%;
-	max-width: 40rem;
-	min-height: 20%;
-	max-height: 90vh;
+	width: auto;
+    max-width: 80%;
+    max-height: 80vh;
 	overflow-y: auto;
+    object-fit: contain;
+	object-position: center;
 }
 
 #caption {
@@ -729,4 +730,11 @@ hr {
 	.storyHeaderImage img {
 		min-width: 50vw !important;
 	}
+}
+
+@supports (-ms-ime-align:auto) {
+    .modalContent {
+        width: auto !important;
+        height: auto !important;
+    }
 }
